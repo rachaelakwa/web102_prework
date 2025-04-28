@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://i.imgur.com/C2EOOs1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Mac Screen recording.  
+GIF created with Kap.  
 <!-- Mac Screenrecording -->
 
 ## Notes
