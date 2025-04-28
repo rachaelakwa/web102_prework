@@ -19,7 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/B3cIbBD.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<!-- <img src='https://i.imgur.com/B3cIbBD.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' /> -->
+![Video Walkthrough](https://i.imgur.com/B3cIbBD.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap.  
